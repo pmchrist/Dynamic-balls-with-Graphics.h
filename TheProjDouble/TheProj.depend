@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1514474993 source:c:\temp\delete\theproj\untitled1.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1266061814 e:\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1514670471 source:c:\temp\delete\theprojdouble\untitled1.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
